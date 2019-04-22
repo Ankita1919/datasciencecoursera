@@ -1,2 +1,2 @@
 # datasciencecoursera
-test prupoes
+test purposes
